@@ -1,0 +1,9 @@
+label,length,links
+spam,120,3
+spam,150,4
+ham,30,0
+ham,45,1
+ham,60,1
+ham,55,0
+spam,200,5
+ham,40,1
